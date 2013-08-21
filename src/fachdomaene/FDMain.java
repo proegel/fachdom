@@ -1,7 +1,3 @@
-// Einfache Veraenderung der Datei durch einfuegen eines Kommentars
-// Hallo Welt.
-// Tschuess
-
 package fachdomaene;
 
 import fachdomaene.service.FachDomaeneImpl;
